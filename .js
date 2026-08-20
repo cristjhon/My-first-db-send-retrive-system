@@ -1,5 +1,1 @@
-
-
-let x = true;
-
-console.log(!x);
+Hatdoginnnnn ka po
